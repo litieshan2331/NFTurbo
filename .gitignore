@@ -4,6 +4,8 @@
 # 个人学习计划与学习清单（本地留存，不纳入版本控制）
 学习清单/
 
+# Docker Compose 本地中间件环境（含运行时数据、日志、备份，不纳入版本控制）
+NFTurbo_DockerCompose/
 
 # MySQL 运行时数据
 NFTurbo_DockerCompose/mysql/data/

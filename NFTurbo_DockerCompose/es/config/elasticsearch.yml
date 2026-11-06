@@ -1,5 +1,0 @@
-cluster.name: "nfturbo-cluster"
-network.host: 0.0.0.0
-http.cors.enabled: true
-http.cors.allow-origin: "*"
-xpack.security.enabled: true
