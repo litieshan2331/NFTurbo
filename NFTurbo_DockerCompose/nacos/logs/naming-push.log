@@ -1,0 +1,4 @@
+2026-11-06 16:03:44,092 INFO [PUSH] Task merge for Service{namespace='seata_server', group='seata', name='seata-server', ephemeral=true, revision=2}
+
+2026-11-06 16:03:44,181 INFO [PUSH] Task merge for Service{namespace='seata_server', group='seata', name='seata-server', ephemeral=true, revision=3}
+

@@ -1,0 +1,330 @@
+2025-07-29 17:47:42,496 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["192.168.97.4:7848"],"strictMode":false,"selfMember":"192.168.97.4:7848"}
+
+2025-07-29 17:47:42,684 INFO ========= The raft protocol is starting... =========
+
+2025-07-29 17:47:42,699 INFO ========= The raft protocol start finished... =========
+
+2025-07-29 17:47:42,701 INFO create raft group : naming_persistent_service
+
+2025-07-29 17:47:42,889 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 17:47:42,924 INFO create raft group : naming_persistent_service_v2
+
+2025-07-29 17:47:42,958 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 17:47:42,962 INFO create raft group : naming_instance_metadata
+
+2025-07-29 17:47:42,999 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 17:47:43,000 INFO create raft group : naming_service_metadata
+
+2025-07-29 17:47:43,030 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 17:50:19,632 INFO shutdown jraft server
+
+2025-07-29 17:50:19,632 INFO ========= The raft protocol is starting to close =========
+
+2025-07-29 17:50:19,701 INFO ========= The raft protocol has been closed =========
+
+2025-07-29 17:50:47,014 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["192.168.97.4:7848"],"strictMode":false,"selfMember":"192.168.97.4:7848"}
+
+2025-07-29 17:50:47,131 INFO ========= The raft protocol is starting... =========
+
+2025-07-29 17:50:47,142 INFO ========= The raft protocol start finished... =========
+
+2025-07-29 17:50:47,143 INFO create raft group : naming_persistent_service
+
+2025-07-29 17:50:47,326 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 17:50:47,363 INFO create raft group : naming_persistent_service_v2
+
+2025-07-29 17:50:47,404 INFO create raft group : naming_instance_metadata
+
+2025-07-29 17:50:47,404 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 17:50:47,474 INFO create raft group : naming_service_metadata
+
+2025-07-29 17:50:47,475 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 17:50:47,516 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 17:56:14,640 INFO shutdown jraft server
+
+2025-07-29 17:56:14,641 INFO ========= The raft protocol is starting to close =========
+
+2025-07-29 17:56:14,700 INFO ========= The raft protocol has been closed =========
+
+2025-07-29 17:56:46,847 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["192.168.97.4:7848"],"strictMode":false,"selfMember":"192.168.97.4:7848"}
+
+2025-07-29 17:56:46,981 INFO ========= The raft protocol is starting... =========
+
+2025-07-29 17:56:46,995 INFO ========= The raft protocol start finished... =========
+
+2025-07-29 17:56:46,997 INFO create raft group : naming_persistent_service
+
+2025-07-29 17:56:47,203 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 17:56:47,254 INFO create raft group : naming_persistent_service_v2
+
+2025-07-29 17:56:47,314 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 17:56:47,319 INFO create raft group : naming_instance_metadata
+
+2025-07-29 17:56:47,394 INFO create raft group : naming_service_metadata
+
+2025-07-29 17:56:47,395 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 17:56:47,439 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 18:00:02,998 INFO shutdown jraft server
+
+2025-07-29 18:00:02,999 INFO ========= The raft protocol is starting to close =========
+
+2025-07-29 18:00:03,068 INFO ========= The raft protocol has been closed =========
+
+2025-07-29 18:00:49,630 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["192.168.97.4:7848"],"strictMode":false,"selfMember":"192.168.97.4:7848"}
+
+2025-07-29 18:00:49,749 INFO ========= The raft protocol is starting... =========
+
+2025-07-29 18:00:49,764 INFO ========= The raft protocol start finished... =========
+
+2025-07-29 18:00:49,766 INFO create raft group : naming_persistent_service
+
+2025-07-29 18:00:49,958 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 18:00:50,012 INFO create raft group : naming_persistent_service_v2
+
+2025-07-29 18:00:50,089 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 18:00:50,092 INFO create raft group : naming_instance_metadata
+
+2025-07-29 18:00:50,131 INFO create raft group : naming_service_metadata
+
+2025-07-29 18:00:50,132 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 18:00:50,174 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 18:04:43,916 INFO shutdown jraft server
+
+2025-07-29 18:04:43,917 INFO ========= The raft protocol is starting to close =========
+
+2025-07-29 18:04:43,973 INFO ========= The raft protocol has been closed =========
+
+2025-07-29 18:05:36,201 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["192.168.97.12:7848"],"strictMode":false,"selfMember":"192.168.97.12:7848"}
+
+2025-07-29 18:05:36,604 INFO ========= The raft protocol is starting... =========
+
+2025-07-29 18:05:36,651 INFO ========= The raft protocol start finished... =========
+
+2025-07-29 18:05:36,656 INFO create raft group : naming_persistent_service
+
+2025-07-29 18:05:37,240 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='192.168.97.12:7848', term=1, raftClusterInfo=[192.168.97.12:7848]}
+
+2025-07-29 18:05:37,476 INFO create raft group : naming_persistent_service_v2
+
+2025-07-29 18:05:37,735 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.97.12:7848', term=1, raftClusterInfo=[192.168.97.12:7848]}
+
+2025-07-29 18:05:37,795 INFO create raft group : naming_instance_metadata
+
+2025-07-29 18:05:37,990 INFO create raft group : naming_service_metadata
+
+2025-07-29 18:05:37,993 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.97.12:7848', term=1, raftClusterInfo=[192.168.97.12:7848]}
+
+2025-07-29 18:05:38,101 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.97.12:7848', term=1, raftClusterInfo=[192.168.97.12:7848]}
+
+2025-07-29 18:05:38,802 ERROR Failed to join the cluster, retry...
+
+java.lang.IllegalStateException: Fail to get leader of group naming_persistent_service
+	at com.alipay.sofa.jraft.core.CliServiceImpl.getPeers(CliServiceImpl.java:605)
+	at com.alipay.sofa.jraft.core.CliServiceImpl.getPeers(CliServiceImpl.java:498)
+	at com.alibaba.nacos.core.distributed.raft.JRaftServer.registerSelfToCluster(JRaftServer.java:353)
+	at com.alibaba.nacos.core.distributed.raft.JRaftServer.lambda$createMultiRaftGroup$0(JRaftServer.java:264)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2025-07-29 18:05:38,805 ERROR Failed to join the cluster, retry...
+
+java.lang.IllegalStateException: Fail to get leader of group naming_persistent_service_v2
+	at com.alipay.sofa.jraft.core.CliServiceImpl.getPeers(CliServiceImpl.java:605)
+	at com.alipay.sofa.jraft.core.CliServiceImpl.getPeers(CliServiceImpl.java:498)
+	at com.alibaba.nacos.core.distributed.raft.JRaftServer.registerSelfToCluster(JRaftServer.java:353)
+	at com.alibaba.nacos.core.distributed.raft.JRaftServer.lambda$createMultiRaftGroup$0(JRaftServer.java:264)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2025-07-29 18:05:58,901 INFO shutdown jraft server
+
+2025-07-29 18:05:58,903 INFO ========= The raft protocol is starting to close =========
+
+2025-07-29 18:05:58,961 INFO ========= The raft protocol has been closed =========
+
+2025-07-29 18:10:03,258 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["192.168.97.11:7848"],"strictMode":false,"selfMember":"192.168.97.11:7848"}
+
+2025-07-29 18:10:03,460 INFO ========= The raft protocol is starting... =========
+
+2025-07-29 18:10:03,485 INFO ========= The raft protocol start finished... =========
+
+2025-07-29 18:10:03,490 INFO create raft group : naming_persistent_service
+
+2025-07-29 18:10:03,828 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='192.168.97.11:7848', term=1, raftClusterInfo=[192.168.97.11:7848]}
+
+2025-07-29 18:10:03,912 INFO create raft group : naming_persistent_service_v2
+
+2025-07-29 18:10:03,993 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.97.11:7848', term=1, raftClusterInfo=[192.168.97.11:7848]}
+
+2025-07-29 18:10:03,997 INFO create raft group : naming_instance_metadata
+
+2025-07-29 18:10:04,095 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.97.11:7848', term=1, raftClusterInfo=[192.168.97.11:7848]}
+
+2025-07-29 18:10:04,095 INFO create raft group : naming_service_metadata
+
+2025-07-29 18:10:04,192 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.97.11:7848', term=1, raftClusterInfo=[192.168.97.11:7848]}
+
+2025-07-29 18:13:09,380 INFO shutdown jraft server
+
+2025-07-29 18:13:09,381 INFO ========= The raft protocol is starting to close =========
+
+2025-07-29 18:13:09,440 INFO ========= The raft protocol has been closed =========
+
+2025-07-29 18:14:00,366 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["192.168.97.11:7848"],"strictMode":false,"selfMember":"192.168.97.11:7848"}
+
+2025-07-29 18:14:00,665 INFO ========= The raft protocol is starting... =========
+
+2025-07-29 18:14:00,690 INFO ========= The raft protocol start finished... =========
+
+2025-07-29 18:14:00,696 INFO create raft group : naming_persistent_service
+
+2025-07-29 18:14:01,018 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='192.168.97.11:7848', term=1, raftClusterInfo=[192.168.97.11:7848]}
+
+2025-07-29 18:14:01,216 INFO create raft group : naming_persistent_service_v2
+
+2025-07-29 18:14:01,373 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.97.11:7848', term=1, raftClusterInfo=[192.168.97.11:7848]}
+
+2025-07-29 18:14:01,403 INFO create raft group : naming_instance_metadata
+
+2025-07-29 18:14:01,586 INFO create raft group : naming_service_metadata
+
+2025-07-29 18:14:01,589 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.97.11:7848', term=1, raftClusterInfo=[192.168.97.11:7848]}
+
+2025-07-29 18:14:01,763 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.97.11:7848', term=1, raftClusterInfo=[192.168.97.11:7848]}
+
+2025-07-29 18:14:02,422 ERROR Failed to join the cluster, retry...
+
+java.lang.IllegalStateException: Fail to get leader of group naming_persistent_service_v2
+	at com.alipay.sofa.jraft.core.CliServiceImpl.getPeers(CliServiceImpl.java:605)
+	at com.alipay.sofa.jraft.core.CliServiceImpl.getPeers(CliServiceImpl.java:498)
+	at com.alibaba.nacos.core.distributed.raft.JRaftServer.registerSelfToCluster(JRaftServer.java:353)
+	at com.alibaba.nacos.core.distributed.raft.JRaftServer.lambda$createMultiRaftGroup$0(JRaftServer.java:264)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2025-07-29 18:14:02,421 ERROR Failed to join the cluster, retry...
+
+java.lang.IllegalStateException: Fail to get leader of group naming_persistent_service
+	at com.alipay.sofa.jraft.core.CliServiceImpl.getPeers(CliServiceImpl.java:605)
+	at com.alipay.sofa.jraft.core.CliServiceImpl.getPeers(CliServiceImpl.java:498)
+	at com.alibaba.nacos.core.distributed.raft.JRaftServer.registerSelfToCluster(JRaftServer.java:353)
+	at com.alibaba.nacos.core.distributed.raft.JRaftServer.lambda$createMultiRaftGroup$0(JRaftServer.java:264)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2025-07-29 18:22:06,075 INFO shutdown jraft server
+
+2025-07-29 18:22:06,077 INFO ========= The raft protocol is starting to close =========
+
+2025-07-29 18:22:06,130 INFO ========= The raft protocol has been closed =========
+
+2025-07-29 18:23:04,527 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["192.168.97.12:7848"],"strictMode":false,"selfMember":"192.168.97.12:7848"}
+
+2025-07-29 18:23:04,915 INFO ========= The raft protocol is starting... =========
+
+2025-07-29 18:23:04,959 INFO ========= The raft protocol start finished... =========
+
+2025-07-29 18:23:04,963 INFO create raft group : naming_persistent_service
+
+2025-07-29 18:23:05,586 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='192.168.97.12:7848', term=1, raftClusterInfo=[192.168.97.12:7848]}
+
+2025-07-29 18:23:05,799 INFO create raft group : naming_persistent_service_v2
+
+2025-07-29 18:23:05,963 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.97.12:7848', term=1, raftClusterInfo=[192.168.97.12:7848]}
+
+2025-07-29 18:23:05,989 INFO create raft group : naming_instance_metadata
+
+2025-07-29 18:23:06,109 INFO create raft group : naming_service_metadata
+
+2025-07-29 18:23:06,111 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.97.12:7848', term=1, raftClusterInfo=[192.168.97.12:7848]}
+
+2025-07-29 18:23:06,199 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.97.12:7848', term=1, raftClusterInfo=[192.168.97.12:7848]}
+
+2025-07-29 18:24:52,569 INFO shutdown jraft server
+
+2025-07-29 18:24:52,569 INFO ========= The raft protocol is starting to close =========
+
+2025-07-29 18:24:52,628 INFO ========= The raft protocol has been closed =========
+
+2025-07-29 18:25:45,335 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["192.168.97.4:7848"],"strictMode":false,"selfMember":"192.168.97.4:7848"}
+
+2025-07-29 18:25:45,463 INFO ========= The raft protocol is starting... =========
+
+2025-07-29 18:25:45,474 INFO ========= The raft protocol start finished... =========
+
+2025-07-29 18:25:45,476 INFO create raft group : naming_persistent_service
+
+2025-07-29 18:25:45,668 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 18:25:45,727 INFO create raft group : naming_persistent_service_v2
+
+2025-07-29 18:25:45,780 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 18:25:45,787 INFO create raft group : naming_instance_metadata
+
+2025-07-29 18:25:45,829 INFO create raft group : naming_service_metadata
+
+2025-07-29 18:25:45,829 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 18:25:45,863 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 18:26:46,728 INFO shutdown jraft server
+
+2025-07-29 18:26:46,728 INFO ========= The raft protocol is starting to close =========
+
+2025-07-29 18:26:46,784 INFO ========= The raft protocol has been closed =========
+
+2025-07-29 18:27:33,247 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["192.168.97.4:7848"],"strictMode":false,"selfMember":"192.168.97.4:7848"}
+
+2025-07-29 18:27:33,379 INFO ========= The raft protocol is starting... =========
+
+2025-07-29 18:27:33,392 INFO ========= The raft protocol start finished... =========
+
+2025-07-29 18:27:33,394 INFO create raft group : naming_persistent_service
+
+2025-07-29 18:27:33,591 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 18:27:33,654 INFO create raft group : naming_persistent_service_v2
+
+2025-07-29 18:27:33,692 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 18:27:33,697 INFO create raft group : naming_instance_metadata
+
+2025-07-29 18:27:33,739 INFO create raft group : naming_service_metadata
+
+2025-07-29 18:27:33,740 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+
+2025-07-29 18:27:33,787 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.97.4:7848', term=1, raftClusterInfo=[192.168.97.4:7848]}
+

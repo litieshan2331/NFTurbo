@@ -1,0 +1,174 @@
+2025-07-29 17:39:08.080 INFO App name resolved from property project.name: sentinel-dashboard
+2025-07-29 17:39:08.082 INFO [SentinelConfig] Application type resolved: 0
+2025-07-29 17:39:08.101 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.init.InitFunc, provider=com.alibaba.csp.sentinel.metric.extension.MetricCallbackInit, aliasName=com.alibaba.csp.sentinel.metric.extension.MetricCallbackInit, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.156 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.init.InitFunc, provider=com.alibaba.csp.sentinel.transport.init.CommandCenterInitFunc, aliasName=com.alibaba.csp.sentinel.transport.init.CommandCenterInitFunc, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.158 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.init.InitFunc, provider=com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc, aliasName=com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.164 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.init.InitFunc, provider=com.alibaba.csp.sentinel.init.ParamFlowStatisticSlotCallbackInit, aliasName=com.alibaba.csp.sentinel.init.ParamFlowStatisticSlotCallbackInit, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.193 INFO [InitExecutor] Found init func: com.alibaba.csp.sentinel.metric.extension.MetricCallbackInit
+2025-07-29 17:39:08.216 INFO [InitExecutor] Found init func: com.alibaba.csp.sentinel.transport.init.CommandCenterInitFunc
+2025-07-29 17:39:08.216 INFO [InitExecutor] Found init func: com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc
+2025-07-29 17:39:08.216 INFO [InitExecutor] Found init func: com.alibaba.csp.sentinel.init.ParamFlowStatisticSlotCallbackInit
+2025-07-29 17:39:08.226 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.transport.CommandCenter, provider=com.alibaba.csp.sentinel.transport.command.SimpleHttpCommandCenter, aliasName=com.alibaba.csp.sentinel.transport.command.SimpleHttpCommandCenter, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.243 INFO [CommandCenterProvider] CommandCenter resolved: com.alibaba.csp.sentinel.transport.command.SimpleHttpCommandCenter
+2025-07-29 17:39:08.315 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.BasicInfoCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.BasicInfoCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.340 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.FetchActiveRuleCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.FetchActiveRuleCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.374 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.FetchClusterNodeByIdCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.FetchClusterNodeByIdCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.388 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.FetchClusterNodeHumanCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.FetchClusterNodeHumanCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.407 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.FetchJsonTreeCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.FetchJsonTreeCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.420 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.FetchOriginCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.FetchOriginCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.432 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.FetchSimpleClusterNodeCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.FetchSimpleClusterNodeCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.457 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.FetchSystemStatusCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.FetchSystemStatusCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.462 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.FetchTreeCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.FetchTreeCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.470 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.ModifyRulesCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.ModifyRulesCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.470 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.OnOffGetCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.OnOffGetCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.471 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.OnOffSetCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.OnOffSetCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.471 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.SendMetricCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.SendMetricCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.471 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.VersionCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.VersionCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.472 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.cluster.FetchClusterModeCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.cluster.FetchClusterModeCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.511 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.cluster.ModifyClusterModeCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.cluster.ModifyClusterModeCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.517 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.ApiCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.ApiCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.537 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.GetParamFlowRulesCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.GetParamFlowRulesCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.545 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.command.handler.ModifyParamFlowRulesCommandHandler, aliasName=com.alibaba.csp.sentinel.command.handler.ModifyParamFlowRulesCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.565 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.adapter.gateway.common.command.UpdateGatewayApiDefinitionGroupCommandHandler, aliasName=com.alibaba.csp.sentinel.adapter.gateway.common.command.UpdateGatewayApiDefinitionGroupCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.568 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.adapter.gateway.common.command.UpdateGatewayRuleCommandHandler, aliasName=com.alibaba.csp.sentinel.adapter.gateway.common.command.UpdateGatewayRuleCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.571 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.adapter.gateway.common.command.GetGatewayApiDefinitionGroupCommandHandler, aliasName=com.alibaba.csp.sentinel.adapter.gateway.common.command.GetGatewayApiDefinitionGroupCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.575 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.command.CommandHandler, provider=com.alibaba.csp.sentinel.adapter.gateway.common.command.GetGatewayRuleCommandHandler, aliasName=com.alibaba.csp.sentinel.adapter.gateway.common.command.GetGatewayRuleCommandHandler, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.612 WARNING No SPI configuration file,filename=META-INF/services/com.alibaba.csp.sentinel.command.CommandHandlerInterceptor,classloader=org.springframework.boot.loader.LaunchedURLClassLoader@5910e440
+2025-07-29 17:39:08.619 INFO [CommandCenterInit] Starting command center: com.alibaba.csp.sentinel.transport.command.SimpleHttpCommandCenter
+2025-07-29 17:39:08.619 INFO [InitExecutor] Executing com.alibaba.csp.sentinel.transport.init.CommandCenterInitFunc with order -1
+2025-07-29 17:39:08.626 INFO [SpiLoader] Found SPI implementation for SPI com.alibaba.csp.sentinel.transport.HeartbeatSender, provider=com.alibaba.csp.sentinel.transport.heartbeat.SimpleHttpHeartbeatSender, aliasName=com.alibaba.csp.sentinel.transport.heartbeat.SimpleHttpHeartbeatSender, isSingleton=true, isDefault=false, order=0
+2025-07-29 17:39:08.658 INFO [SimpleHttpHeartbeatSender] Default console address list retrieved: [Endpoint{protocol=HTTP, host='.server, port=80}]
+2025-07-29 17:39:08.658 INFO [HeartbeatSenderProvider] HeartbeatSender activated: com.alibaba.csp.sentinel.transport.heartbeat.SimpleHttpHeartbeatSender
+2025-07-29 17:39:08.659 INFO [HeartbeatSenderInit] Heartbeat interval not configured in config property or invalid, using sender default: 10000
+2025-07-29 17:39:08.680 INFO [HeartbeatSenderInit] HeartbeatSender started: com.alibaba.csp.sentinel.transport.heartbeat.SimpleHttpHeartbeatSender
+2025-07-29 17:39:08.682 INFO [InitExecutor] Executing com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc with order -1
+2025-07-29 17:39:08.712 INFO [InitExecutor] Executing com.alibaba.csp.sentinel.metric.extension.MetricCallbackInit with order 2147483647
+2025-07-29 17:39:08.731 INFO [InitExecutor] Executing com.alibaba.csp.sentinel.init.ParamFlowStatisticSlotCallbackInit with order 2147483647
+2025-07-29 17:39:13.802 WARNING [SimpleHttpHeartbeatSender] Failed to send heartbeat to Endpoint{protocol=HTTP, host='.server, port=80}
+java.net.UnknownHostException: .server
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.request(SimpleHttpClient.java:98)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.post(SimpleHttpClient.java:82)
+	at com.alibaba.csp.sentinel.transport.heartbeat.SimpleHttpHeartbeatSender.sendHeartbeat(SimpleHttpHeartbeatSender.java:74)
+	at com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc$1.run(HeartbeatSenderInitFunc.java:91)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2025-07-29 17:39:23.674 WARNING [SimpleHttpHeartbeatSender] Failed to send heartbeat to Endpoint{protocol=HTTP, host='.server, port=80}
+java.net.UnknownHostException: .server
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.request(SimpleHttpClient.java:98)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.post(SimpleHttpClient.java:82)
+	at com.alibaba.csp.sentinel.transport.heartbeat.SimpleHttpHeartbeatSender.sendHeartbeat(SimpleHttpHeartbeatSender.java:74)
+	at com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc$1.run(HeartbeatSenderInitFunc.java:91)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2025-07-29 17:39:33.676 WARNING [SimpleHttpHeartbeatSender] Failed to send heartbeat to Endpoint{protocol=HTTP, host='.server, port=80}
+java.net.UnknownHostException: .server
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.request(SimpleHttpClient.java:98)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.post(SimpleHttpClient.java:82)
+	at com.alibaba.csp.sentinel.transport.heartbeat.SimpleHttpHeartbeatSender.sendHeartbeat(SimpleHttpHeartbeatSender.java:74)
+	at com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc$1.run(HeartbeatSenderInitFunc.java:91)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2025-07-29 17:39:43.674 WARNING [SimpleHttpHeartbeatSender] Failed to send heartbeat to Endpoint{protocol=HTTP, host='.server, port=80}
+java.net.UnknownHostException: .server
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.request(SimpleHttpClient.java:98)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.post(SimpleHttpClient.java:82)
+	at com.alibaba.csp.sentinel.transport.heartbeat.SimpleHttpHeartbeatSender.sendHeartbeat(SimpleHttpHeartbeatSender.java:74)
+	at com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc$1.run(HeartbeatSenderInitFunc.java:91)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2025-07-29 17:39:53.679 WARNING [SimpleHttpHeartbeatSender] Failed to send heartbeat to Endpoint{protocol=HTTP, host='.server, port=80}
+java.net.UnknownHostException: .server
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.request(SimpleHttpClient.java:98)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.post(SimpleHttpClient.java:82)
+	at com.alibaba.csp.sentinel.transport.heartbeat.SimpleHttpHeartbeatSender.sendHeartbeat(SimpleHttpHeartbeatSender.java:74)
+	at com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc$1.run(HeartbeatSenderInitFunc.java:91)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2025-07-29 17:40:03.678 WARNING [SimpleHttpHeartbeatSender] Failed to send heartbeat to Endpoint{protocol=HTTP, host='.server, port=80}
+java.net.UnknownHostException: .server
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.request(SimpleHttpClient.java:98)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.post(SimpleHttpClient.java:82)
+	at com.alibaba.csp.sentinel.transport.heartbeat.SimpleHttpHeartbeatSender.sendHeartbeat(SimpleHttpHeartbeatSender.java:74)
+	at com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc$1.run(HeartbeatSenderInitFunc.java:91)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2025-07-29 17:40:13.676 WARNING [SimpleHttpHeartbeatSender] Failed to send heartbeat to Endpoint{protocol=HTTP, host='.server, port=80}
+java.net.UnknownHostException: .server
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.request(SimpleHttpClient.java:98)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.post(SimpleHttpClient.java:82)
+	at com.alibaba.csp.sentinel.transport.heartbeat.SimpleHttpHeartbeatSender.sendHeartbeat(SimpleHttpHeartbeatSender.java:74)
+	at com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc$1.run(HeartbeatSenderInitFunc.java:91)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2025-07-29 17:40:23.673 WARNING [SimpleHttpHeartbeatSender] Failed to send heartbeat to Endpoint{protocol=HTTP, host='.server, port=80}
+java.net.UnknownHostException: .server
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.request(SimpleHttpClient.java:98)
+	at com.alibaba.csp.sentinel.transport.heartbeat.client.SimpleHttpClient.post(SimpleHttpClient.java:82)
+	at com.alibaba.csp.sentinel.transport.heartbeat.SimpleHttpHeartbeatSender.sendHeartbeat(SimpleHttpHeartbeatSender.java:74)
+	at com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc$1.run(HeartbeatSenderInitFunc.java:91)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

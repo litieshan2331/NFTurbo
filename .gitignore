@@ -3,3 +3,8 @@
 
 # 个人学习计划与学习清单（本地留存，不纳入版本控制）
 学习清单/
+
+
+# MySQL 运行时数据
+NFTurbo_DockerCompose/mysql/data/
+**/mysql.sock

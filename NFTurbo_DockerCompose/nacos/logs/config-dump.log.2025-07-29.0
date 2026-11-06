@@ -1,0 +1,72 @@
+2025-07-29 17:48:09,492 INFO [dump] add formal task. groupKey=seataServer.properties+SEATA_GROUP+seata-server
+
+2025-07-29 17:48:09,589 INFO [dump] process formal task. groupKey=seataServer.properties+SEATA_GROUP+seata-server
+
+2025-07-29 17:48:09,606 INFO [dump] md5 changed, save to disk cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=
+
+2025-07-29 17:48:09,616 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=,lastModifiedTs=1753782489000
+
+2025-07-29 17:50:53,879 INFO [dump] add formal task. groupKey=seataServer.properties+SEATA_GROUP+seata-server
+
+2025-07-29 17:50:53,966 INFO [dump] process formal task. groupKey=seataServer.properties+SEATA_GROUP+seata-server
+
+2025-07-29 17:50:53,984 INFO [dump] md5 changed, save to disk cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=
+
+2025-07-29 17:50:53,996 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=,lastModifiedTs=1753782654000
+
+2025-07-29 17:56:54,037 INFO [dump] add formal task. groupKey=seataServer.properties+SEATA_GROUP+seata-server
+
+2025-07-29 17:56:54,118 INFO [dump] process formal task. groupKey=seataServer.properties+SEATA_GROUP+seata-server
+
+2025-07-29 17:56:54,172 INFO [dump] md5 changed, save to disk cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=
+
+2025-07-29 17:56:54,184 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=,lastModifiedTs=1753783014000
+
+2025-07-29 18:00:56,853 INFO [dump] add formal task. groupKey=seataServer.properties+SEATA_GROUP+seata-server
+
+2025-07-29 18:00:56,931 INFO [dump] process formal task. groupKey=seataServer.properties+SEATA_GROUP+seata-server
+
+2025-07-29 18:00:56,953 INFO [dump] md5 changed, save to disk cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=
+
+2025-07-29 18:00:56,963 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=,lastModifiedTs=1753783257000
+
+2025-07-29 18:05:34,202 INFO [dump] md5 changed, save to disk cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=
+
+2025-07-29 18:05:34,247 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=,lastModifiedTs=1753783257000
+
+2025-07-29 18:05:34,261 INFO [dump-all-ok] seataServer.properties+SEATA_GROUP, 1753783257000, length=1288,md5UTF8=c5e1e1dc1c80047020e3f9a5e8104acf
+
+2025-07-29 18:10:01,632 INFO [dump] md5 changed, save to disk cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=
+
+2025-07-29 18:10:01,642 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=,lastModifiedTs=1753783257000
+
+2025-07-29 18:10:01,646 INFO [dump-all-ok] seataServer.properties+SEATA_GROUP, 1753783257000, length=1288,md5UTF8=c5e1e1dc1c80047020e3f9a5e8104acf
+
+2025-07-29 18:13:58,479 INFO [dump] md5 changed, save to disk cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=
+
+2025-07-29 18:13:58,498 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=,lastModifiedTs=1753783257000
+
+2025-07-29 18:13:58,502 INFO [dump-all-ok] seataServer.properties+SEATA_GROUP, 1753783257000, length=1288,md5UTF8=c5e1e1dc1c80047020e3f9a5e8104acf
+
+2025-07-29 18:23:02,606 INFO [dump] md5 changed, save to disk cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=
+
+2025-07-29 18:23:02,623 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=,lastModifiedTs=1753783257000
+
+2025-07-29 18:23:02,628 INFO [dump-all-ok] seataServer.properties+SEATA_GROUP, 1753783257000, length=1288,md5UTF8=c5e1e1dc1c80047020e3f9a5e8104acf
+
+2025-07-29 18:25:52,420 INFO [dump] add formal task. groupKey=seataServer.properties+SEATA_GROUP+seata-server
+
+2025-07-29 18:25:52,442 INFO [dump] process formal task. groupKey=seataServer.properties+SEATA_GROUP+seata-server
+
+2025-07-29 18:25:52,459 INFO [dump] md5 changed, save to disk cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=
+
+2025-07-29 18:25:52,502 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=,lastModifiedTs=1753784752000
+
+2025-07-29 18:27:39,862 INFO [dump] add formal task. groupKey=seataServer.properties+SEATA_GROUP+seata-server
+
+2025-07-29 18:27:39,957 INFO [dump] process formal task. groupKey=seataServer.properties+SEATA_GROUP+seata-server
+
+2025-07-29 18:27:39,974 INFO [dump] md5 changed, save to disk cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=
+
+2025-07-29 18:27:39,985 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seataServer.properties+SEATA_GROUP+seata-server, newMd5=c5e1e1dc1c80047020e3f9a5e8104acf,oldMd5=,lastModifiedTs=1753784860000
+

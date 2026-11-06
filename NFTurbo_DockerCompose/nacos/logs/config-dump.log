@@ -1,0 +1,122 @@
+2026-11-06 15:36:19,682 INFO [dump] md5 changed, save to disk cache ,groupKey=seataServer.properties+seata+seata_server, newMd5=f2bea603963cc00d1cfa2e028fc63688,oldMd5=
+
+2026-11-06 15:36:19,682 INFO [dump] md5 changed, save to disk cache ,groupKey=service.vgroupMapping.default_tx_group+seata+seata_server, newMd5=c21f969b5f03d33d43e04f8f136e7682,oldMd5=
+
+2026-11-06 15:36:19,715 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=service.vgroupMapping.default_tx_group+seata+seata_server, newMd5=c21f969b5f03d33d43e04f8f136e7682,oldMd5=,lastModifiedTs=1793950529000
+
+2026-11-06 15:36:19,716 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seataServer.properties+seata+seata_server, newMd5=f2bea603963cc00d1cfa2e028fc63688,oldMd5=,lastModifiedTs=1793950529000
+
+2026-11-06 15:36:19,719 INFO [dump-all-ok] seataServer.properties+seata, 1793950529000, length=1893,md5UTF8=f2bea603963cc00d1cfa2e028fc63688
+
+2026-11-06 15:36:19,719 INFO [dump-all-ok] service.vgroupMapping.default_tx_group+seata, 1793950529000, length=7,md5UTF8=c21f969b5f03d33d43e04f8f136e7682
+
+2026-11-06 17:47:28,466 INFO [dump] add formal task. groupKey=nfturbo-business.properties+DEFAULT_GROUP
+
+2026-11-06 17:47:28,501 INFO [dump] process formal task. groupKey=nfturbo-business.properties+DEFAULT_GROUP
+
+2026-11-06 17:47:28,504 INFO [dump] md5 changed, save to disk cache ,groupKey=nfturbo-business.properties+DEFAULT_GROUP, newMd5=4e6e81b81a8ae83d8e9646b30fe998e9,oldMd5=
+
+2026-11-06 17:47:28,509 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=nfturbo-business.properties+DEFAULT_GROUP, newMd5=4e6e81b81a8ae83d8e9646b30fe998e9,oldMd5=,lastModifiedTs=1793958448000
+
+2026-11-06 17:47:28,644 INFO [dump] add formal task. groupKey=nfturbo-chain.properties+DEFAULT_GROUP
+
+2026-11-06 17:47:28,712 INFO [dump] process formal task. groupKey=nfturbo-chain.properties+DEFAULT_GROUP
+
+2026-11-06 17:47:28,714 INFO [dump] md5 changed, save to disk cache ,groupKey=nfturbo-chain.properties+DEFAULT_GROUP, newMd5=57451fdcc1412f012a8c74aaacbe8165,oldMd5=
+
+2026-11-06 17:47:28,716 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=nfturbo-chain.properties+DEFAULT_GROUP, newMd5=57451fdcc1412f012a8c74aaacbe8165,oldMd5=,lastModifiedTs=1793958449000
+
+2026-11-06 17:47:28,847 INFO [dump] add formal task. groupKey=nfturbo-notice.properties+DEFAULT_GROUP
+
+2026-11-06 17:47:28,917 INFO [dump] process formal task. groupKey=nfturbo-notice.properties+DEFAULT_GROUP
+
+2026-11-06 17:47:28,921 INFO [dump] md5 changed, save to disk cache ,groupKey=nfturbo-notice.properties+DEFAULT_GROUP, newMd5=2883ada0b2c115cd9b6beffd6ed70f09,oldMd5=
+
+2026-11-06 17:47:28,923 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=nfturbo-notice.properties+DEFAULT_GROUP, newMd5=2883ada0b2c115cd9b6beffd6ed70f09,oldMd5=,lastModifiedTs=1793958449000
+
+2026-11-06 17:47:29,050 INFO [dump] add formal task. groupKey=nfturbo-user.properties+DEFAULT_GROUP
+
+2026-11-06 17:47:29,124 INFO [dump] process formal task. groupKey=nfturbo-user.properties+DEFAULT_GROUP
+
+2026-11-06 17:47:29,127 INFO [dump] md5 changed, save to disk cache ,groupKey=nfturbo-user.properties+DEFAULT_GROUP, newMd5=b165c2876a167c1a02de54af7adced2c,oldMd5=
+
+2026-11-06 17:47:29,128 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=nfturbo-user.properties+DEFAULT_GROUP, newMd5=b165c2876a167c1a02de54af7adced2c,oldMd5=,lastModifiedTs=1793958449000
+
+2026-11-06 17:47:29,184 INFO [dump] add formal task. groupKey=business-flow-rules+SENTINEL_GROUP
+
+2026-11-06 17:47:29,229 INFO [dump] process formal task. groupKey=business-flow-rules+SENTINEL_GROUP
+
+2026-11-06 17:47:29,231 INFO [dump] md5 changed, save to disk cache ,groupKey=business-flow-rules+SENTINEL_GROUP, newMd5=0d2f642a70467a42e758e7f9e6fd015a,oldMd5=
+
+2026-11-06 17:47:29,232 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=business-flow-rules+SENTINEL_GROUP, newMd5=0d2f642a70467a42e758e7f9e6fd015a,oldMd5=,lastModifiedTs=1793958449000
+
+2026-11-06 17:47:29,333 INFO [dump] add formal task. groupKey=business-param-flow-rules+SENTINEL_GROUP
+
+2026-11-06 17:47:29,333 INFO [dump] process formal task. groupKey=business-param-flow-rules+SENTINEL_GROUP
+
+2026-11-06 17:47:29,335 INFO [dump] md5 changed, save to disk cache ,groupKey=business-param-flow-rules+SENTINEL_GROUP, newMd5=8f95662e6ed08f147cafd02d9e812707,oldMd5=
+
+2026-11-06 17:47:29,336 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=business-param-flow-rules+SENTINEL_GROUP, newMd5=8f95662e6ed08f147cafd02d9e812707,oldMd5=,lastModifiedTs=1793958449000
+
+2026-11-06 17:47:29,543 INFO [dump] add formal task. groupKey=gateway-flow-rules+SENTINEL_GROUP
+
+2026-11-06 17:47:29,638 INFO [dump] process formal task. groupKey=gateway-flow-rules+SENTINEL_GROUP
+
+2026-11-06 17:47:29,640 INFO [dump] md5 changed, save to disk cache ,groupKey=gateway-flow-rules+SENTINEL_GROUP, newMd5=8686d14fb2f3267d00f332fc497e4e10,oldMd5=
+
+2026-11-06 17:47:29,641 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=gateway-flow-rules+SENTINEL_GROUP, newMd5=8686d14fb2f3267d00f332fc497e4e10,oldMd5=,lastModifiedTs=1793958450000
+
+2026-11-06 17:54:40,290 INFO [dump] md5 changed, save to disk cache ,groupKey=business-flow-rules+SENTINEL_GROUP, newMd5=0d2f642a70467a42e758e7f9e6fd015a,oldMd5=
+
+2026-11-06 17:54:40,290 INFO [dump] md5 changed, save to disk cache ,groupKey=service.vgroupMapping.default_tx_group+seata+seata_server, newMd5=c21f969b5f03d33d43e04f8f136e7682,oldMd5=
+
+2026-11-06 17:54:40,291 INFO [dump] md5 changed, save to disk cache ,groupKey=nfturbo-user.properties+DEFAULT_GROUP, newMd5=b165c2876a167c1a02de54af7adced2c,oldMd5=
+
+2026-11-06 17:54:40,290 INFO [dump] md5 changed, save to disk cache ,groupKey=nfturbo-business.properties+DEFAULT_GROUP, newMd5=4e6e81b81a8ae83d8e9646b30fe998e9,oldMd5=
+
+2026-11-06 17:54:40,291 INFO [dump] md5 changed, save to disk cache ,groupKey=seataServer.properties+seata+seata_server, newMd5=f2bea603963cc00d1cfa2e028fc63688,oldMd5=
+
+2026-11-06 17:54:40,291 INFO [dump] md5 changed, save to disk cache ,groupKey=nfturbo-chain.properties+DEFAULT_GROUP, newMd5=57451fdcc1412f012a8c74aaacbe8165,oldMd5=
+
+2026-11-06 17:54:40,291 INFO [dump] md5 changed, save to disk cache ,groupKey=nfturbo-notice.properties+DEFAULT_GROUP, newMd5=2883ada0b2c115cd9b6beffd6ed70f09,oldMd5=
+
+2026-11-06 17:54:40,291 INFO [dump] md5 changed, save to disk cache ,groupKey=gateway-flow-rules+SENTINEL_GROUP, newMd5=8686d14fb2f3267d00f332fc497e4e10,oldMd5=
+
+2026-11-06 17:54:40,291 INFO [dump] md5 changed, save to disk cache ,groupKey=business-param-flow-rules+SENTINEL_GROUP, newMd5=8f95662e6ed08f147cafd02d9e812707,oldMd5=
+
+2026-11-06 17:54:40,328 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=nfturbo-notice.properties+DEFAULT_GROUP, newMd5=2883ada0b2c115cd9b6beffd6ed70f09,oldMd5=,lastModifiedTs=1793958449000
+
+2026-11-06 17:54:40,329 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=gateway-flow-rules+SENTINEL_GROUP, newMd5=8686d14fb2f3267d00f332fc497e4e10,oldMd5=,lastModifiedTs=1793958450000
+
+2026-11-06 17:54:40,328 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=business-param-flow-rules+SENTINEL_GROUP, newMd5=8f95662e6ed08f147cafd02d9e812707,oldMd5=,lastModifiedTs=1793958449000
+
+2026-11-06 17:54:40,328 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=business-flow-rules+SENTINEL_GROUP, newMd5=0d2f642a70467a42e758e7f9e6fd015a,oldMd5=,lastModifiedTs=1793958449000
+
+2026-11-06 17:54:40,328 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=nfturbo-chain.properties+DEFAULT_GROUP, newMd5=57451fdcc1412f012a8c74aaacbe8165,oldMd5=,lastModifiedTs=1793958449000
+
+2026-11-06 17:54:40,328 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=nfturbo-user.properties+DEFAULT_GROUP, newMd5=b165c2876a167c1a02de54af7adced2c,oldMd5=,lastModifiedTs=1793958449000
+
+2026-11-06 17:54:40,328 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=service.vgroupMapping.default_tx_group+seata+seata_server, newMd5=c21f969b5f03d33d43e04f8f136e7682,oldMd5=,lastModifiedTs=1793950529000
+
+2026-11-06 17:54:40,328 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=nfturbo-business.properties+DEFAULT_GROUP, newMd5=4e6e81b81a8ae83d8e9646b30fe998e9,oldMd5=,lastModifiedTs=1793958448000
+
+2026-11-06 17:54:40,329 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seataServer.properties+seata+seata_server, newMd5=f2bea603963cc00d1cfa2e028fc63688,oldMd5=,lastModifiedTs=1793950529000
+
+2026-11-06 17:54:40,333 INFO [dump-all-ok] service.vgroupMapping.default_tx_group+seata, 1793950529000, length=7,md5UTF8=c21f969b5f03d33d43e04f8f136e7682
+
+2026-11-06 17:54:40,333 INFO [dump-all-ok] business-flow-rules+SENTINEL_GROUP, 1793958449000, length=557,md5UTF8=0d2f642a70467a42e758e7f9e6fd015a
+
+2026-11-06 17:54:40,333 INFO [dump-all-ok] nfturbo-chain.properties+DEFAULT_GROUP, 1793958449000, length=381,md5UTF8=57451fdcc1412f012a8c74aaacbe8165
+
+2026-11-06 17:54:40,333 INFO [dump-all-ok] gateway-flow-rules+SENTINEL_GROUP, 1793958450000, length=281,md5UTF8=8686d14fb2f3267d00f332fc497e4e10
+
+2026-11-06 17:54:40,333 INFO [dump-all-ok] nfturbo-notice.properties+DEFAULT_GROUP, 1793958449000, length=333,md5UTF8=2883ada0b2c115cd9b6beffd6ed70f09
+
+2026-11-06 17:54:40,333 INFO [dump-all-ok] nfturbo-user.properties+DEFAULT_GROUP, 1793958449000, length=412,md5UTF8=b165c2876a167c1a02de54af7adced2c
+
+2026-11-06 17:54:40,333 INFO [dump-all-ok] business-param-flow-rules+SENTINEL_GROUP, 1793958449000, length=159,md5UTF8=8f95662e6ed08f147cafd02d9e812707
+
+2026-11-06 17:54:40,333 INFO [dump-all-ok] nfturbo-business.properties+DEFAULT_GROUP, 1793958448000, length=641,md5UTF8=4e6e81b81a8ae83d8e9646b30fe998e9
+
+2026-11-06 17:54:40,335 INFO [dump-all-ok] seataServer.properties+seata, 1793950529000, length=1893,md5UTF8=f2bea603963cc00d1cfa2e028fc63688
+
